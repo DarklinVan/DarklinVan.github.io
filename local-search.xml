@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  
+  
+  
+  <entry>
+    <title>我的首个Blog</title>
+    <link href="/2025/06/20/First-post/"/>
+    <url>/2025/06/20/First-post/</url>
+    
+    <content type="html"><![CDATA[<h1 id="我的首个Blog"><a href="#我的首个Blog" class="headerlink" title="我的首个Blog"></a>我的首个Blog</h1><p>之前采用了<a href="https://github.com/xugaoyi/vuepress-theme-vdoing">Vdoing</a>来建立自己的第一个博客<br>但是由于繁琐的域名备案和公安备案流程，再加上Vdoing的便捷性不足以支持我的需求，所以我选择转用Hexo来创立自己的博客<br>接下来我会在Hexo上更新，并迁移到Hexo。</p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  
+</search>
